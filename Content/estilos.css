@@ -1,0 +1,54 @@
+/* Tipografía */
+h4 {
+    color:#fff;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Módulos contenido */
+  .row-fluid {
+    background: -webkit-linear-gradient(175deg, rgb(246, 246, 246), rgb(183, 183, 183));
+    background: linear-gradient(175deg, rgb(246, 246, 246), rgb(183, 183, 183));
+  }
+
+  .tintar1 {
+    background: linear-gradient(
+      rgba(144, 144, 144, 0.6),
+      rgba(0, 0, 0, .1)),    url("https://img.icons8.com/ultraviolet/100/000000/magazine.png") center;
+    height: 100%;
+    padding: 1.5em;
+    margin: 1em;
+  }
+
+  .tintar2 {
+    background: linear-gradient(
+      rgba(144, 144, 144, 0.6),
+      rgba(0, 0, 0, .1)),    url("https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/100/000000/external-stock-distribution-xnimrodx-lineal-color-xnimrodx-2.png") center;
+    height: 100%;
+    padding: 1.5em;
+    border: 1px solid black;
+  }
+
+.tintar3 {
+    background: linear-gradient( rgba(144, 144, 144, 0.6), rgba(0, 0, 0, .1)), url("https://img.icons8.com/external-justicon-lineal-color-justicon/100/000000/external-inventory-business-management-justicon-lineal-color-justicon.png") center;
+    height: 100%;
+    padding: 1.5em;
+    border: 1px solid black;
+}
+
+.tintar4 {
+    background: linear-gradient( rgba(144, 144, 144, 0.6), rgb(0, 0, 0));
+    height: 100%;
+    padding: 1.5em;
+    border: 1px solid black;
+}
+
+  .tintar5 {
+    background: linear-gradient(
+      rgba(144, 144, 144, 0.6),
+      rgb(0, 0, 0));
+    height: 100%;
+    padding: 1.5em;
+    border: 1px solid black;
+  }
+ 
+  
